@@ -12,6 +12,6 @@ const returnsANamedFunction = () => receivesAFunction;
 
 const returnsAnAnonymousFunction = ()=>{ 
      return () =>{
-        
+
      }
 };
